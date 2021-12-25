@@ -1,0 +1,17 @@
+plant_id,plant_label,soil_type_id,soil_type_label,lulc_id,lulc_label,land_type_id,land_type_label,erosion_id,erosion_label,flood_type_id,flood_type_label
+2,Active Tista Floodplain,1,Calcareous Aluvium (non-saline),1,Water,2,Highland,1,Hazard Absent,0,Not Flood Prone
+3,Tista Meander Floodplain,2,Noncalcareous Aluvium,2,Trees,3,Medium Highland 1,2,Hazard Present,1,Severe River Flooding
+4,Karatoya-Bangali Floodplain,3,Calcareous Brown Floodplain Soils,3,Grass,4,Medium Highland 2,3,-9999,2,Moderate River Flooding
+5,Lower Atrai Basin,5,Calcareous Dark Grey Floodplain Soils,4,Flooded Vegetation,5,Medium Lowland,4,Erosion Absent,3,Low River Flooding
+7,Active Brahmaputra-Jamuna Floodplain,6,Noncalcareous Grey Floodplain Soils (non-saline),5,Crops,6,Lowland,5,Erosion Present,5,Moderate Flash Flooding
+8,Young Brahmaputra and Jamuna Floodplains,7,Noncalcareous Brown Floodplain Soils,6,Scrub,7,Very Lowland,6,Relaive Humidity,,
+9,Old Brahmaputra Floodplain,8,Noncalcareous Dark Grey Floodplain Soils,7,Built Area,,,,,,
+10,Active Ganges Floodplain,10,Acid Basin Clays,8,Bare Ground,,,,,,
+11,High Ganges River Floodplain,14,Brown Hill Soils,,,,,,,,
+12,Low Ganges River Floodplain,15,Shallow Red-Brown Terrace Soils,,,,,,,,
+22,Northern and Eastern Piedmont Plains,16,Deep Red-Brown Terrace Soils,,,,,,,,
+25,Level Barind Tract,17,Brown Mottled Terrace Soils,,,,,,,,
+27,North-Eastern Barind Tract,18,Shallow Grey Terrace Soils,,,,,,,,
+28,Madhupur Tract,19,Deep Grey Terrace Soils,,,,,,,,
+29,Northern and Eastern Hills,23,Urban,,,,,,,,
+31,Urban,,,,,,,,,,
