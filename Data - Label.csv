@@ -1,4 +1,4 @@
-plant_id,plant_label,soil_type_id,soil_type_label,lulc_id,lulc_label,land_type_id,land_type_label,erosion_id,erosion_label,flood_type_id,flood_type_label
+plain_type_id,plain_type_label,soil_type_id,soil_type_label,lulc_id,lulc_label,land_type_id,land_type_label,erosion_id,erosion_label,flood_type_id,flood_type_label
 2,Active Tista Floodplain,1,Calcareous Aluvium (non-saline),1,Water,2,Highland,1,Hazard Absent,0,Not Flood Prone
 3,Tista Meander Floodplain,2,Noncalcareous Aluvium,2,Trees,3,Medium Highland 1,2,Hazard Present,1,Severe River Flooding
 4,Karatoya-Bangali Floodplain,3,Calcareous Brown Floodplain Soils,3,Grass,4,Medium Highland 2,3,-9999,2,Moderate River Flooding
